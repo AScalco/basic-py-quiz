@@ -1,0 +1,15 @@
+Q1. What's the food product with the highest impact on environment?
+Q1.A - Red Meat
+Q1.B - Sugar
+Q1.C - Nuts
+{"A":10, "B":0, "C":0}
+Q2. What's your choice for question 2?
+Q2.A - Option 2A
+Q2.B - Option 2B
+Q2.C - Option 2C
+{"A":10, "B":20, "C":30}
+Q3. What's your choice for question 3?
+Q3.A - Option 3A
+Q3.B - Option 3B
+Q3.C - Option 3C
+{"A":10, "B":20, "C":30}

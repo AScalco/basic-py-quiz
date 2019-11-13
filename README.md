@@ -1,5 +1,4 @@
-# basic-py-quiz
-A basic quiz game in Python (no GUI)[^1]
+# A basic quiz game in Python (no GUI)[^1]
 
 ## Description
 

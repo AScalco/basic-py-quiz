@@ -1,8 +1,6 @@
-# A basic quiz game in Python (no GUI)[^1]
+# A basic quiz game in Python (no GUI)
 
-## Description
-
-### Purpose
+### Objective
 Create a quiz game that interact with users.
 
 ### Main functions
@@ -15,5 +13,4 @@ Create a quiz game that interact with users.
 
 ### Footnotes
 
-[^1]: This script was coded as excercise to learn about Python language: feel free to take the parts that might be of your interest.
 

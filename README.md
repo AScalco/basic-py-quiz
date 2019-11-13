@@ -15,5 +15,5 @@ Create a quiz game that interact with users.
 
 ### Footnotes
 
-[^1] This script was coded as excercise to learn about Python language: feel free to take the parts that might be of your interest.
+[^1]: This script was coded as excercise to learn about Python language: feel free to take the parts that might be of your interest.
 
